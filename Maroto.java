@@ -4,6 +4,8 @@ class Maroto {
 		System.out.println("Maceta");
 		System.out.println("Adicionado Maroto ");
 		System.out.println("Add Master"); 
+		System.out.println("Alterado Work"); 
+		System.out.println("Teste"); 
 	}
 
 }
